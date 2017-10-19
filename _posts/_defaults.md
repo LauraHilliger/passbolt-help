@@ -1,7 +1,6 @@
 ---
-date:
-title:
-categories:
-description:
+categories: 
+description: 
 type: Document
 ---
+
