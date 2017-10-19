@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
----
+=======
 
 # What is passbolt?
 
