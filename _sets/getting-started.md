@@ -1,6 +1,7 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 # What is passbolt?
