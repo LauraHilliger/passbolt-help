@@ -40,7 +40,6 @@ defaults:
     body_class: show_hero_search
 email: help@passbolt.com
 description: Knowledge base template for Jekyll.
->>>>>>> 769c97eb74b55bf61d699a8429b69fb86a68975c
 baseurl: ''
 url: http://passbolt.com
 twitter_username: passbolt
