@@ -1,4 +1,8 @@
 ---
+title: Getting Started
+---
+
+---
 title: About
 permalink: "/about/"
 layout: page
