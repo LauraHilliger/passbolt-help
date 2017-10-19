@@ -1,9 +1,9 @@
 ---
+date: 2017-01-16
 title: Add a credit card
-date: 2017-01-16 00:00:00 Z
 categories:
-- billing
-description: Add a credit card to your account
+  - billing
+description: "Add a credit card to your account"
 type: Document
 ---
 
