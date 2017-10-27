@@ -75,3 +75,6 @@ types:
 - Document
 - Video
 _comments: 
+collections:
+- getting_started
+	output: true
