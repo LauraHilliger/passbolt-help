@@ -2,7 +2,7 @@
 title: How to install in Firefox
 date: 2017-10-19 00:00:00 Z
 categories:
-- getting-started
+- 03-using-passbolt
 description: Make sure you Firefox version is up to date. We only support the most recent versions. 
 type: Document
 ---
