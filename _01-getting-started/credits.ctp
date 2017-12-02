@@ -29,7 +29,7 @@ If you need someone to clean up your basement, Kevin is not your guy. Why would 
 								
 ## Community members who rock
 #### All our community members rock
-Thanks to everyone who takes a moment and spreads the word about passbolt. Thanks to people who vote on features. Thanks to those of you who
+Thanks to everyone who takes a moment and spreads the word about passbolt. Thanks to people who vote on features. 
 
 ### Icons and illustrations
 
