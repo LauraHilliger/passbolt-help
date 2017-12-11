@@ -3,17 +3,17 @@ title: How to make a feature request
 date: 2017-12-02 00:00:00 Z
 categories:
 - 02-bug-feature
-description: Passbolt could not exist without the support and patience of our crew and their families and friends.
+description: Community requests are prioritized based on popularity. Just follow the procedure and let us know what you want :)
 type: Document
 ---
 
 # How to make a feature request
 
-Anyone can request a feature in the backlog category of [our community forum](https://community.passbolt.com/c/backlog). The first step, however, is to check and see if someone else has already made a similar request. Please search the forum!
+Anyone can request a feature in the backlog category of [our community forum](https://community.passbolt.com/c/backlog). The first step, however, is to check and see if someone else has already made a similar request. Please search the forum before making any requests.
 
-If no one has made the request you'd like to make, click the New Topic button in the upper right hand corner of the backlog category. You'll be provided with a  template. Please fill it out carefully. The more information the better. Then just submit and make your request!
+If no one has made the request you'd like to make, click the New Topic button in the upper right hand corner of the backlog category. You'll be provided with a  template. Please fill it out carefully. The more information the better. Then just submit and make your request. 
 
-The template closes with the inclusion of a community poll so that others can upvote your idea.
+The template closes with the inclusion of a community poll. The community can upvote each other's requests to help us prioritize.
 
 **Q1. What is the problem that you are trying to solve?**
 Explain with a short paragraph what are you trying to solve with this change request or new feature. Focus on the problem: how would you measure if the problem is solved or the situation better than before?
