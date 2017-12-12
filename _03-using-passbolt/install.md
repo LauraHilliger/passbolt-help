@@ -11,7 +11,7 @@ type: Document
 
 Passbolt is reported to work on a large variety of operating system configurations. Therefore this help page is a generic guide that should work for most environments.
 
-If you run into any issues with your particular configuration, feel free to get in touch, we will try our best to help you.
+If you run into any issues with your particular configuration, [please check the forum](https://community.passbolt.com/c/installation-issues). Maybe someone else has had your issue. If not, make a post and the community will try to help you.
 
 ## Other community guides
 
