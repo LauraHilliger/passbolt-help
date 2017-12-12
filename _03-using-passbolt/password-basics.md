@@ -3,7 +3,7 @@ title: Password basics: Creating, editing, sharing and deleting passwords
 date: 2017-12-02 00:00:00 Z
 categories:
 - 03-using-passbolt
-description: Step by step: create your first password, make edits, share and trash. 
+description: Step by step: create your first password, make edits, share and trash passwords. And if you lost your password...well, that's not good.
 type: Document
 ---
 
@@ -77,4 +77,10 @@ Careful, if you delete a password it will be deleted permanently!
 4. Select option "copy password to clipboard"
 5. Enter your master password. Click OK to confirm.
 6. Your password will be copied to clipboard.
+
+# I forgot my master password / private key passphrase AND/OR I lost my private key. Can I recover my passwords?
+Unfortunately it is not possible to reset your private key passphrase if you do not remember the original. Similarly if you have lost your private key and you do not have a backup, you cannot decrypt your passwords anymore.
+
+Sadly, you have lost access to the passwords that you have not yet shared. If you have shared your password with somebody you can create a new account and ask them to share your password back with you.
+
 
