@@ -77,4 +77,4 @@ types:
 _comments: 
 collections:
 - getting_started
-	output: true
+output: true
