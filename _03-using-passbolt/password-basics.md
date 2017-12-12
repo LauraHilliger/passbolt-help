@@ -1,9 +1,9 @@
 ---
-title: Creating, editing, sharing and deleting passwords
+title: Password basics: Creating, editing, sharing and deleting passwords
 date: 2017-12-02 00:00:00 Z
 categories:
 - 03-using-passbolt
-description: Step by step, create your first password, make edits, share and trash. All the basics.
+description: Step by step: create your first password, make edits, share and trash. 
 type: Document
 ---
 
