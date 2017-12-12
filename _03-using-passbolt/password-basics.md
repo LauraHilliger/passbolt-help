@@ -68,3 +68,13 @@ Careful, if you delete a password it will be deleted permanently!
 4. Remove yourself from the list of users with whom the password is shared
 5. The password will no longer be shared with you
 
+# How to copy a password to clipboard
+* Note: A clipboard in computer terms, is a temporary storage area where material cut or copied from a file is kept for pasting into another file.*
+
+1. Log in to your passbolt account
+2. Select a password you wish to copy to clipboard
+3. Click the "more" button" on top of your password list
+4. Select option "copy password to clipboard"
+5. Enter your master password. Click OK to confirm.
+6. Your password will be copied to clipboard.
+
