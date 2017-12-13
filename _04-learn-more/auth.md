@@ -1,7 +1,7 @@
 ---
 title: Learn a little about authentication 
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 04-learn-more
 description: How does GPG authentication work? Find out here!
 type: Document

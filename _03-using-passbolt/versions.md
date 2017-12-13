@@ -1,7 +1,7 @@
 ---
 title: Understanding and solving version incompatibilities
 date: 2017-10-26 00:00:00 Z
-categories:
+collection:
 - getting-started
 description: Not all versions play nicely together.
 type: Document

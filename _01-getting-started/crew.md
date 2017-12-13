@@ -1,7 +1,7 @@
 ---
 title: Our crew
 date: 2017-11-21 00:00:00 Z
-categories:
+collection:
 - 01-getting-started
 description: Passbolt could not exist without the support and patience of our crew and their families and friends.
 type: Document

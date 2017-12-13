@@ -1,7 +1,7 @@
 ---
 title: Installation
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 03-using-passbolt
 description: How to install passbolt on your own server.
 type: Document

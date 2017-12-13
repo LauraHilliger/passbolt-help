@@ -1,11 +1,17 @@
 ---
 title: Personas
 date: 2017-11-30 00:00:00 Z
-categories:
+collection:
 - 01-getting-started
-description: Everyone needs to start somewhere.
+description: Passbolt audiences include Devops and team leads, techies, digital early adopters, privacy advocates (including #edtech communities) and more. This page lists some typical personas. 
 type: Document
 ---
+
+#Introduction
+
+Passbolt is for the common team. Are you a small web agency? *Passbolt is for you.* Are you a sports association? *Passbolt is for you.* Are you a medium size start up and are working on some processes for people joining/leaving the org? *Passbolt is for you.* Social media team? *Passbolt is for you.* Landscaping firm using Google Docs? *Passbolt is for you.* Privacy conscious educator? *Passbolt is for you.* Scouts? Passbolt. DJ collective? Passssssssssssssssssssbolllllllllllllllt!
+
+Passbolt isn’t just for people who already know online security. Passbolt is for those of us who use the internet to collaborate, build and learn. Passbolt is password management for the common team.
 
 # Social Media Team Persona
 "Well, now at least we have a process to share our social network accounts"

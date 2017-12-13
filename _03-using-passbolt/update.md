@@ -1,7 +1,7 @@
 ---
 title: Update passbolt
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 03-using-passbolt
 description: How to update passbolt on your server.
 type: Document

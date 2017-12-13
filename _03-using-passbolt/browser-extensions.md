@@ -1,7 +1,7 @@
 ---
 title: How to install browser extensions
 date: 2017-10-19 00:00:00 Z
-categories:
+collection:
 - 03-using-passbolt
 description: Make sure you Firefox version is up to date. We only support the most recent versions. 
 type: Document

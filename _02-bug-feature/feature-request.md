@@ -1,7 +1,7 @@
 ---
 title: How to make a feature request
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 02-bug-feature
 description: Community requests are prioritized based on popularity. Just follow the procedure and let us know what you want :)
 type: Document

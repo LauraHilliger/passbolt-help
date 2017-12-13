@@ -1,7 +1,7 @@
 ---
 title: Backup
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 03-using-passbolt
 description: How to perform a backup of passbolt
 type: Document

@@ -1,7 +1,7 @@
 ---
 title: How to file a bug report
 date: 2017-12-02 00:00:00 Z
-categories:
+collection:
 - 02-bug-feature
 description: Heh? A piece of software has a flaw? That never happens...
 type: Document

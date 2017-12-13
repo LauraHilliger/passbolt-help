@@ -1,7 +1,7 @@
 ---
 title: FAQs
 date: 2017-11-30 00:00:00 Z
-categories:
+collection:
 - 01-getting-started
 description: Everyone needs to start somewhere.
 type: Document

@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 date: 2017-11-21 00:00:00 Z
-categories:
+collection:
 - 01-getting-started
 description: We aim to create a safe and comfortable space for any and every community member.
 type: Document

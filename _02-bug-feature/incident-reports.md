@@ -1,7 +1,7 @@
 ---
 title: Incident Reports
 date: 2017-12-03 00:00:00 Z
-categories:
+collection:
 - 02-bug-feature
 description: Sometimes stuff happens, and we have to go firefighting. Here's some stuff that has happened and what we did about it.
 type: Document
