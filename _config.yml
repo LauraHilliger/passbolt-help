@@ -2,15 +2,21 @@
 title: Passbolt
 timezone: UTC
 collections:
-  posts:
-    title: Posts
+  01-getting-started:
+    title: Getting Started
     output: true
-  sets:
-    title: Sets
-    output: false
-  uploads:
-    title: Uploads
-    output: true
+  02-bug-feature:
+      title: Bug Feature
+      output: true
+  03-using-passbolt:
+      title: Using Passbolt
+      output: true
+  04-learn-more:
+      title: Learn More
+      output: true
+  05-small-sprint:
+      title: Small Print
+      output: true
 defaults:
 - scope:
     path: ''
@@ -74,10 +80,4 @@ social_icons:
 types:
 - Document
 - Video
-_comments: 
-collections:
-- 01-getting_started
-- 02-bug-feature
-- 03-using-passbolt
-- 04-learn-more
-- 05-small-print
+_comments:

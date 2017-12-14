@@ -1,5 +1,5 @@
 ---
-title: Account Basics: Registering, setting up and managing your account
+title: "Account Basics: Registering, setting up and managing your account"
 date: 2017-12-02 00:00:00 Z
 collection:
 - 03-using-passbolt

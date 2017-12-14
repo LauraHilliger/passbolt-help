@@ -1,10 +1,9 @@
 ---
 title: Personas
 date: 2017-11-30 00:00:00 Z
-collection:
-- 01-getting-started
 description: Passbolt audiences include Devops and team leads, techies, digital early adopters, privacy advocates (including #edtech communities) and more. This page lists some typical personas. 
 type: Document
+order: 5
 ---
 
 #Introduction
