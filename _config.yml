@@ -3,19 +3,24 @@ title: Passbolt
 timezone: UTC
 collections:
   01-getting-started:
-    title: Getting Started
+    title: Get to know passbolt
+    description: Learn about who we are, our mission in life, our users and the FAQs we get.
     output: true
   02-bug-feature:
-      title: Bug Feature
+      title: Bug or feature?
+      description: This section provides infomation on how to file a bug, how to make a feature request and notes about our releases and incidents.
       output: true
   03-using-passbolt:
-      title: Using Passbolt
+      title: Using passbolt
+      description: How to install passbolt, how to update it, how to use it. Here you'll find help for all the ins and outs of the software.
       output: true
   04-learn-more:
-      title: Learn More
+      title: Learn more
+      description: This section has resources that are more broad to privacy and security on the web. For example, "what is authentication exactly?".
       output: true
   05-small-sprint:
-      title: Small Print
+      title: Small print
+      description: Our licence agreements, privacy policy, terms of service and stuff like that.
       output: true
 defaults:
 - scope:

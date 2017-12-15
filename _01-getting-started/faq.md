@@ -3,7 +3,7 @@ title: FAQs
 date: 2017-11-30 00:00:00 Z
 description: Everyone needs to start somewhere.
 type: Document
-order: 3
+order: 2
 ---
 
 ## Frequently Asked Questions
