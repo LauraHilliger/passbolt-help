@@ -18,7 +18,7 @@ collections:
       title: Learn more
       description: This section has resources that are more broad to privacy and security on the web. For example, "what is authentication exactly?".
       output: true
-  05-small-sprint:
+  05-small-print:
       title: Small print
       description: Our licence agreements, privacy policy, terms of service and stuff like that.
       output: true

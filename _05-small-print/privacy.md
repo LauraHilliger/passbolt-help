@@ -1,10 +1,9 @@
 ---
 title: Privacy Policy
 date: 2017-11-30 00:00:00 Z
-collection:
-- 05-small-print
 description: If you contribute code to passbolt, we'll ask you to sign an agreement that allows us to use the code. Weird right? 
 type: Document
+order: 1
 ---
 
 # Privacy Policy

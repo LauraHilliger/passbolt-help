@@ -1,10 +1,9 @@
 ---
 title: Terms of Service
 date: 2017-11-30 00:00:00 Z
-collection:
-- 05-small-print
 description: Did you read these? No? That's ok, no one reads the Terms of Service.
 type: Document
+order: 2
 ---
 ## Terms of Service
 
