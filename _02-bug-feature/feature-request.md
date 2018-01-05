@@ -7,7 +7,7 @@ description: Community requests are prioritized based on popularity. Just follow
 type: Document
 ---
 
-# How to make a feature request
+## How to make a feature request
 
 Anyone can request a feature in the backlog category of [our community forum](https://community.passbolt.com/c/backlog). The first step, however, is to check and see if someone else has already made a similar request. Please search the forum before making any requests.
 

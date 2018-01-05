@@ -7,7 +7,7 @@ description: How to perform a backup of passbolt
 type: Document
 ---
 
-# Introduction
+## Introduction
 
 Making regular backups is a critical aspect of managing a passbolt instance. Because passbolt stores important information, it is equally important to have a backup strategy in place.
 
@@ -20,11 +20,11 @@ Here are some best practices to keep in mind:
 *   Make sure the backup is encrypted and stored in a safe location
 *   Practice drills and test the backups to make sure they work
 
-# What to backup?
+## What to backup?
 
 There are several elements you need to backup:
 
-## Backup these at regular intervals
+### Backup these at regular intervals
 
 1. **The database**
 
@@ -36,7 +36,7 @@ This can be easily scripted using [mysqldump](https://mariadb.com/kb/en/mariadb/
 
 The images in `app/webroot/img/public` also need to be backed up, otherwise profile images will be lost.
 
-## Backup these when they change
+### Backup these when they change
 
 3. **The server public and private keys**
 
@@ -46,7 +46,7 @@ The images in `app/webroot/img/public` also need to be backed up, otherwise prof
 
 The files located in `app/Config` such as core.php, app.php, email.php, database.php. It is optional, but it can save you some time if you need to rebuild a new instance.
 
-# What about the secret keys of my collaborators?
+## What about the secret keys of my collaborators?
 
 Every user private key should also be backed up, this is however not something we/you can automate easily for now (passbolt might provide a functionality for this in the future). We believe it is best if this is the responsibility of the end user. There is a dedicated step during the extension setup to that purpose.
 

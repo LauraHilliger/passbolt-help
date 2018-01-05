@@ -6,8 +6,8 @@ type: Document
 order: 4
 ---
 
-### Why we started passbolt
+## Why we started passbolt
 
-### What we care about
+## What we care about
 
 ## What we want to do

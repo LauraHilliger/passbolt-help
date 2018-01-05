@@ -12,7 +12,7 @@ This Code of Conduct applies to all of us: Passbolt staff, contributors, maintai
 
 We expect this Code of Conduct to be followed in any ticketing system, social network, forum, mailing list, IRC channel, wiki, web site, private correspondence, online and offline event or meeting.
 
-### Anti-harassment policy
+## Anti-harassment policy
 
 We pledge to respect everyone who contributes to this project in any way.
 
@@ -22,7 +22,7 @@ We do not tolerate harassment of participants in any form. Personal attacks, hat
 
 Offenders will be temporarily or permanently banned from communicating through Passbolt's systems and events or otherwise penalised. These rules may be enforced at the discretion of Passbolt staff by removing issues, comments, blocking or reporting accounts and banning from online or public meetings. 
 
-### Interaction principles
+## Interaction principles
 
 We pledge to adhere to following principles when interacting with each other:
 
@@ -44,12 +44,12 @@ We pledge to adhere to following principles when interacting with each other:
 **Be transparent**: we are open about what we are working on to allow others to participate. We are also transparent about our mistakes to allow others to
 learn and avoid repeating them.
 
-### Handling issues
+## Handling issues
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at <a href="mailto:contact@passbolt.com">contact@passbolt.com</a>
 
 
-### Date of Last Update
+## Date of Last Update
 
 This code of conduct was last updated on November 21st, 2017.
 
