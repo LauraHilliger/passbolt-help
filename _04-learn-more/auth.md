@@ -7,7 +7,7 @@ description: How does GPG authentication work? Find out here!
 type: Document
 ---
                    
-# Introduction
+## Introduction
 
 Passbolt instead of a classic form based authentication perform a challenge based authentication based on OpenPGP keys set during the setup.
 
@@ -15,7 +15,7 @@ The aim of this document is to help explain how this authentication process work
 
 Our goals were both to improve the security and usability of the overall solution, e.g. reuse the existing OpenPGP facilities of passbolt to avoid having the user remember another password than their passphrase.
 
-##See also:
+### See also:
 
 * [Cakephp authentication](http://book.cakephp.org/2.0/en/core-libraries/components/authentication.html)
 * [GPGAuth protocol](https://gpgauth.org/)
@@ -23,7 +23,7 @@ Our goals were both to improve the security and usability of the overall solutio
 * [API GpgAuth source](https://github.com/passbolt/passbolt/blob/master/app/Controller/Component/Auth/GpgAuthenticate.php)
 * [API GpgAuth unit tests](https://github.com/passbolt/passbolt/blob/master/app/Test/Case/Controller/AuthControllerTest.php)
 
-# Form based authentication
+## Form based authentication
 
 While some web application today defer to another service such as Google or Facebook to handle the authentication, most still support a form based authentication by default.
 
@@ -35,7 +35,7 @@ During the registration, the password is sent (ideally over HTTPS) to the server
 
 During login is sent in a similar fashion than the setup, the server hash it and compare it with the stored version. If they match the server store a session token that is send back as a cookie (or url parameter) and set on the client side. This cookie is produced by the client for each requests for the duration of the session (until the cookie expires, the user logout or the server terminate the session).
 
-## The problem with the form based approach
+### The problem with the form based approach
 
 The main issue is one of usability. Using this approach for passbolt would mean that a user would need to remember another password on top of their private key password. This negates the benefits of having a password manager.
 
@@ -56,7 +56,7 @@ The authentication process is as follow:
 
 <figure>![Sequence diagram of a GPGAuth based authentication](<?php echo Router::url('/img/diagrams/sequence_diagram_gpg_authenticate.png');?>) <span class="legend">fig. Sequence diagram of a GPGAuth based authentication</span></figure>
 
-## Verify steps
+### Verify steps
 
 1.  The client generates an encrypted token of random data (encrypted with the server public key), and stores the unencrypted version locally.
 2.  That encrypted token is sent to the server along with the user key fingerprint.
@@ -64,7 +64,7 @@ The authentication process is as follow:
 4.  The server sends back the decrypted nonce.
 5.  The client check if the nonce match the previously recorded one. If it does not match the client warns the user that the server identity cannot be verified.
 
-## Login steps
+### Login steps
 
 1.  The user sends their key fingerprint.
 2.  The server checks to see if the fingerprint and user associated with are valid. It then generates an encrypted token of random data, and stores the unencrypted version locally.
@@ -73,18 +73,18 @@ The authentication process is as follow:
 5.  The client send back the decrypted nonce along with the user key fingerprint.
 6.  The server compares the un-encrypted signed token sent from the client to make sure it matches. If the server is satisfied, the authentication is completed as with a normal form based login: session is started.
 
-## Notes and remarks
+### Notes and remarks
 
 *   As per protocol definition the server identity verification steps are optional but recommended All our client enforce it by default.*   We decided to stick to the historical version of the protocol for now, but in the future we may try to reduce the number of HTTP request: e.g. currently one can not request nonce1 in the verify step. So with the verify step a total of 3 POST are needed. The whole protocol could probably be simplified to single GET/POST roundtrip, like for form based auth.*   There is also an optional "step 0" where the user perform a GET /auth/verify request. This can be used to get the URLs of the server public key and server verification, or to view the public key advertised by the server.
 
-## Benefits
+### Benefits
 
 On top of the usability benefit of not having to remember an additional password we note the following additional benefits are made available:
 
 *   **Phishing:** this risk is mitigated because the client does not enter a password, e.g. getting the secret key passphrase alone would not allow an attacker to login. Since the client can verify the server identity based on server key (manually added to the keyring), it is not enough for an attacker to fake a form and domain.
 *   **Password quality**: the strength of the authentication token is stronger than a classic password, since a different “password” is also used every time and is not linked the private key master password complexity.
 
-## Residual risks and drawbacks
+### Residual risks and drawbacks
 
 There are still risks with the chosen solution:
 
@@ -96,6 +96,6 @@ There are still risks with the chosen solution:
 *   **Client: the authentication cookie can be stolen if SSL can be broken.** This is not specific to this authentication method, as form authentication is also vulnerable to this class of attack.
 *   **Both: Key revocation and expiracy.** There is no facility at the moment to replace and revoke keys.
 
-# Last updated
+## Last updated
 
 This article was last updated on March 29th, 2016.

@@ -128,6 +128,6 @@ As an administrator (or as any user in debug mode) you can go and check on the /
 
 There is nothing special to say about major updates yet since we have not done any yet! We will most likely provide an update manual for each major versions and list them here.
 
-### Last updated
+## Last updated
 
 This article was last updated on January 20th, 2017.

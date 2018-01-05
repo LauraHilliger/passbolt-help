@@ -6,8 +6,6 @@ type: Document
 order: 1
 ---
 
-# Privacy Policy
-
 This website, passbolt.com is owned and operated by Passbolt SARL ("we", "us" or "passbolt"). By using and accessing our Site, you ("you", "user" or, "end user") agree to the terms of our Privacy Policy (collectively, the "privacy policy").
 
 This Privacy Policy is effective with respect to any data that we’ve collected, or collect, about and/or from you, according to our [Terms of Service](<?php echo Router::url('/terms'); ?>).
@@ -66,7 +64,7 @@ This functionality is off by default. You can opt-out of these reports at any mo
 
 To protect you from third party tracking, we do not include any third party javascript application such as “facebook like” or “google +1” buttons on this Site.
 
-### Our use of your personal information
+## Our use of your personal information
 
 We may use your personal information only for one or more of the following purposes:
 

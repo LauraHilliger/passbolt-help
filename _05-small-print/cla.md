@@ -6,19 +6,17 @@ type: Document
 order: 3
 ---
 
-## Frequently asked questions
-
-### Why do we need a Contributor Licence Agreement?
+## Why do we need a Contributor Licence Agreement?
 
 At passbolt we are required to have an agreement with any one who submits contributions, in order to make sure that we, and the user of our software, are legally entitled to distribute your contributed code anywhere in the world.
 
 In effect, you still own the copyright but you are giving us a licence. You retain the right to modify your code and use it in other projects.
 
-### How do I sign the Contributor Licence Agreement?
+## How do I sign the Contributor Licence Agreement?
 
 As part of the pull request process on github you will be asked to electronically sign passbolt CLA, thanks to the [CLA Assistant](https://cla-assistant.io/). You only need to do this once. You can also print it and send it to us signed by email at [contact@passbolt.com](mailto:contact@passbolt.com)
 
-### Where can I find the Contributor Licence Agreement?
+## Where can I find the Contributor Licence Agreement?
 
 We use the [Harmony CLA](http://harmonyagreements.org/faqs.html) to protect your rights regarding any contribution you make to our open source projects. You can find our version bellow or on [github](https://gist.github.com/stripthis/fd4d894872fc1503fbbe8e30f3492116).
 
@@ -26,13 +24,13 @@ Do you have a question about this CLA policy? Get in touch!
 
 [contact us](mailto:contact@passbolt.com)
 
-# Passbolt Contributor License Agreement
+## Passbolt Contributor License Agreement
 
 Thank you for your interest in contributing to Passbolt ("We" or "Us").
 
 This contributor agreement ("Agreement") documents the rights granted by contributors to Us. To make this document effective, please sign it and send it to Us by email or electronic submission, following the instructions at [https://www.passbolt.com/help/legal/cla](https://www.passbolt.com/help/legal/cla). This is a legally binding document, so please read it carefully before agreeing to it. The Agreement may cover more than one software project managed by Us.
 
-## 1\. Definitions
+### 1\. Definitions
 
 "You" means the the person or legal entity including its affiliates asked to accept this agreement. An affiliate is any entity that controls or is controlled by the legal entity, or is under common control with it.
 
@@ -48,35 +46,35 @@ This contributor agreement ("Agreement") documents the rights granted by contrib
 
 "Effective Date" means the date You execute this Agreement or the date You first Submit a Contribution to Us, whichever is earlier.
 
-## 2\. Grants of Rights
+### 2\. Grants of Rights
 
-### 2.1 Copyright Licence
+#### 2.1 Copyright Licence
 
 (a) You retain ownership of the Copyright in Your Contribution and have the same rights to use or license the Contribution which You would have had without entering into the Agreement.
 
 (b) To the maximum extent permitted by the relevant law, You grant to Us a perpetual, worldwide, non-exclusive, transferable, royalty-free, irrevocable license under the Copyright covering the Contribution, with the right to sublicense such rights through multiple tiers of sublicensees, to reproduce, modify, display, perform and distribute the Contribution as part of the Material; provided that this license is conditioned upon compliance with Section 2.3.
 
-### 2.2 Patent License
+#### 2.2 Patent License
 
 For patent claims including, without limitation, method, process, and apparatus claims which You own, control or have the right to grant, now or in the future, You grant to Us a perpetual, worldwide, non-exclusive, transferable, royalty-free, irrevocable patent license, with the right to sublicense these rights to multiple tiers of sublicensees, to make, have made, use, sell, offer for sale, import and otherwise transfer the Contribution and the Contribution in combination with the Material (and portions of such combination). This license is granted only to the extent that the exercise of the licensed rights infringes such patent claims; and provided that this license is conditioned upon compliance with Section 2.3.
 
-### 2.3 Outbound License
+#### 2.3 Outbound License
 
 As a condition on the grant of rights in Sections 2.1 and 2.2, We agree to license the Contribution only under the terms of the license or licenses which We are using on the Submission Date for the Material or any licenses which are approved by the Open Source Initiative on or after the Effective Date, including both permissive and copyleft licenses, whether or not such licenses are subsequently disapproved (including any right to adopt any future version of a license if permitted).
 
-### 2.4 Moral Rights.
+#### 2.4 Moral Rights.
 
 If moral rights apply to the Contribution, to the maximum extent permitted by law, You waive and agree not to assert such moral rights against Us or our successors in interest, or any of our licensees, either direct or indirect.
 
-### 2.5 Our Rights.
+#### 2.5 Our Rights.
 
 You acknowledge that We are not obligated to use Your Contribution as part of the Material and may decide to include any Contribution We consider appropriate.
 
-### 2.6 Reservation of Rights.
+#### 2.6 Reservation of Rights.
 
 Any rights not expressly licensed under this section are expressly reserved by You.
 
-## 3\. Agreement
+### 3\. Agreement
 
 You confirm that:
 
@@ -88,15 +86,15 @@ You confirm that:
 
 (d) You have followed the instructions in [https://www.passbolt.com/help/legal/cla](https://www.passbolt.com/help/legal/cla), if You do not own the Copyright in the entire work of authorship Submitted.
 
-## 4\. Disclaimer
+### 4\. Disclaimer
 
 EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, THE CONTRIBUTION IS PROVIDED "AS IS". MORE PARTICULARLY, ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE EXPRESSLY DISCLAIMED BY YOU TO US. TO THE EXTENT THAT ANY SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH WARRANTY IS LIMITED IN DURATION TO THE MINIMUM PERIOD PERMITTED BY LAW.
 
-## 5\. Consequential Damage Waiver
+### 5\. Consequential Damage Waiver
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL AND EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
 
-## 6\. Miscellaneous
+### 6\. Miscellaneous
 
 6.1 This Agreement will be governed by and construed in accordance with the laws of luxembourg excluding its conflicts of law provisions. Under certain circumstances, the governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods ("UN Convention") and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this Agreement.
 
