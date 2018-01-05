@@ -6,6 +6,7 @@ collection:
 description: Step by step, set up your account, change your profile pic, manage your account.
 type: Document
 ---
+
 # Creating a new account
 Once you have passbolt installed on your machine, you can register and open an account with a few simple steps!
 
@@ -13,10 +14,10 @@ Once you have passbolt installed on your machine, you can register and open an a
 2. An add-on is required to use passbolt. Install the plugin for Firefox or Chrome.
 3. You will see a small red key icon in the upper right hand corner of your browser. Click on it. To configure the passbolt browser extension
 4. Click the Register button and enter your name and email.
-5. Check your email. Passbolt sent you a note that contains a link allowing you to login. When you click this link, passbolt will ask you to check the URL passbolt is associated with:
+5. Check your email. Passbolt sent you a note that contains a link allowing you to login. When you click this link, passbolt will ask you to check the URL passbolt is associated with ![URL Check]({{ site.baseurl }}/images/screenshots/url-check.png)
 6. If you recognize the domain name, check the checkbox and then click Next.
-7. Passbolt will ask you to create a new key with this screen
-8. Next, passbolt will help you create a new master password. Choose this password wisely, it will be the gatekeeper to all your other passwords.
+7. Passbolt will ask you to create a new key with this screen ![Create New Key]({{ site.baseurl }}/images/screenshots/create-new-key.png)
+8. Next, passbolt will help you create a new master password. Choose this password wisely, it will be the gatekeeper to all your other passwords. ![Set passphrase]({{ site.baseurl }}/images/screenshots/set-passphrase.png)
 9. Once you haveve chosen your master password and clicked Next, you will be given the opportunity to download your private key. It is highly recommended that you do so!
 10. The final step is to create a security token. Choosing a color and a three character token is a secondary security mechanism that helps you know you are logging into a *real* passbolt instance.
 
@@ -44,3 +45,10 @@ When you upload a picture be mindful of the following compatibilities:
 * The file extension
 
 Please note that if your file size and picture quality are heavy you may be unable to upload your picture
+
+#Managing your favourites
+Saving favorite passwords is easy. 
+1. While logged in, click passwords in the upper left.
+2. With *All items* selected, click on the star next to the passwords you want to favorite. The star will turn red.
+3. Click on Favorite to see the passwords you have marked.
+4. Just click the star again to unfavorite a password. The star will become grey when unfavorited.

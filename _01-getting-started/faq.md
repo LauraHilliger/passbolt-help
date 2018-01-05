@@ -6,8 +6,6 @@ type: Document
 order: 2
 ---
 
-{:toc}
-
 ## Frequently Asked Questions
 
 ### What is passbolt?
