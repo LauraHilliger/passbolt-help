@@ -6,6 +6,8 @@ type: Document
 order: 2
 ---
 
+{:toc}
+
 ## Frequently Asked Questions
 
 ### What is passbolt?
@@ -19,7 +21,7 @@ Passbolt is a free and open source password manager that allows team members to 
 
 ### How does it work?
 
-![diagram showing how it works](<image src="images/diagrams/howitworks.svg">)
+![diagram showing how it works]({{ site.baseurl }}/images/diagrams/howitworks.svg)
 
 #### How it works
 
@@ -41,7 +43,7 @@ A lot of password solutions focus on personal needs. Passbolt is primarily desig
 
 Here is an overview of the key functionality of passbolt at present (in blue), and what we have in mind for the future (in white). Click on the picture to enlarge.
 
-![Passbolt Functional Overview](<image src="images/diagrams/functional_overview.png">)(<image src="images/diagrams/functional_overview.png")
+![Passbolt Functional Overview]({{ site.baseurl }}/images/diagrams/functional_overview.png)
 
 ### Why does my organisation need a password manager?
 
@@ -82,9 +84,9 @@ For 3rd party libraries the flavor of the open source license will vary (MIT, MP
 
 Third party logos (such as Firefox, Docker, JSON, GnuPG, Github, etc.) are the sole property of their respective owners. They are used for illustrative use only. Their respective owners do not endorse passbolt or our use of their products.
 
-[Creative Commons BY NC SA 4.0 logo](<image src="images/third_party/by-sa.png');?>)](http://creativecommons.org/licenses/by-sa/4.0/) 
+![Creative Commons BY NC SA 4.0 logo]({{ site.baseurl }}/images/third_party/by-sa.png)
 
-[GNU AGPL v3.0 logo](<image src="images/third_party/agplv3.png">)](http://www.gnu.org/licenses/agpl-3.0.en.html) 
+![GNU AGPL v3.0 logo]({{ site.baseurl }}/images/third_party/agplv3.png)
 
 ### Can I commercially host and distribute passbolt?
 
@@ -113,7 +115,7 @@ Typically, when the source code of a software is not available you need to trust
 
 Correct. This is why organizing regular independent 3rd party audits is one of our main priorities. The code we use for encryption for example has already been reviewed by [Cure53](https://github.com/openpgpjs/openpgpjs/wiki/Cure53-security-audit) in 2014\. We also use known libraries and frameworks such as Cakephp that have been under scrutiny for years.
 
-Organizing more regular independent 3rd party audits is one of our main priorities. We need your [support](#support) to be able to organize them.
+Organizing more regular independent 3rd party audits is one of our main priorities. We need your [support](https://www.passbolt.com/services/community) to be able to organize them.
 
 ### Wouldn’t an attacker find vulnerabilities more easily if the code is available to everyone?
 
@@ -216,10 +218,9 @@ However on the server side you can make a regular backup of the entire database.
 
 This token is used to prevent malicious web pages to trick you by mimicking passbolt dialogs in order to steal your data, e.g. to protect your from phishing attacks.
 
-<figure>![example of a security token](<image src="images/screenshots/LU_security_token.png');?>) <span class="legend">fig. example of security token</span></figure>
+![example of a security token]({{ site.baseurl }}/images/screenshots/LU_security_token.png)
 
 This cue will be shown whenever we ask you for your master password and other sensitive places to help make sure you are dealing with an authentic passbolt dialog and not a fake one!
-
 
 ### How do you ensure public keys are not tampered with?
 
@@ -244,13 +245,13 @@ You have several options:
 *   Using docker: We provide [docker images](https://github.com/passbolt/passbolt_docker_debian) to make this as painless as possible. [Docker](http://www.docker.com/) is a platform to build, ship, and run web applications, whether on your laptop, data center, virtual machines or on hosting platform such as amazon web services.
 *   Manually from scratch: We provide instructions in the readme files on our [code repository](https://www.github.com/passbolt).
 
-![Docker Logo](<image src="images/third_party/docker_small_h.png")(https://github.com/passbolt/passbolt_docker_debian) 
+![Docker Logo]({{ site.baseurl }}/images/third_party/docker_small_h.png)
 
 ## Functionalities and roadmap
 
 ### Will you release certain features (X or Y) in the near future?
 
-If the feature is on our roadmap we will most likely get to it at some point. Good things take time and our capacity to add features depends on how many financial supporters and practical contributors we have. Please consider [supporting us](#support)!
+If the feature is on our roadmap we will most likely get to it at some point. Good things take time and our capacity to add features depends on how many financial supporters and practical contributors we have. Please consider [supporting us](https://www.passbolt.com/services/community)!
 
 ### How do I get a feature added to the roadmap?
 
