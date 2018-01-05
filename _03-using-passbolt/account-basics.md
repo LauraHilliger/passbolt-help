@@ -46,7 +46,7 @@ When you upload a picture be mindful of the following compatibilities:
 
 Please note that if your file size and picture quality are heavy you may be unable to upload your picture
 
-#Managing your favourites
+#Managing your favorites
 Saving favorite passwords is easy. 
 1. While logged in, click passwords in the upper left.
 2. With *All items* selected, click on the star next to the passwords you want to favorite. The star will turn red.
