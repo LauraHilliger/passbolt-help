@@ -6,6 +6,7 @@ collections:
     title: Get to know passbolt
     description: Learn about who we are, our mission in life, our users and the FAQs we get.
     output: true
+    layout: post
   02-bug-feature:
       title: Bug or feature?
       description: This section provides infomation on how to file a bug, how to make a feature request and notes about our releases and incidents.
@@ -42,6 +43,31 @@ defaults:
     path: index.html
   values:
     body_class: show_hero_search
+- scope:
+    path: ""
+    type: 01-getting-started
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: 02-bug-feature
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: 03-using-passbolt
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: 04-learn-more
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: 05-small-print
+  values:
+    layout: post
 url: https://passbolt.com/
 baseurl: 
 google_analytics_key: 
