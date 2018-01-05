@@ -10,7 +10,6 @@ order: 1
 
 This Code of Conduct applies to all of us: Passbolt staff, contributors, maintainers and participants in any campaigns, projects, and communities under the Passbolt name.
 
-
 We expect this Code of Conduct to be followed in any ticketing system, social network, forum, mailing list, IRC channel, wiki, web site, private correspondence, online and offline event or meeting.
 
 ### Anti-harassment policy
