@@ -24,6 +24,11 @@
 
 	h3 {
 		text-transform:capitalize;
+		border:none;
+		
+		a {
+			border:none;
+		}
 	}
 
 	@media #{$mid-point} {
