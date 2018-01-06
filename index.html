@@ -1,6 +1,15 @@
 ---
 ---
-
+<section class="personas">
+	<section class="user">
+	</section>
+	
+	<section class="admin">
+	</section>
+	
+	<section class="engineer">
+	</section>
+</section>
 <section class="categories">
 	{% assign test = site.collections | where_exp:'item', 'item.label != "posts"' %}
 	{% for collection in test %}

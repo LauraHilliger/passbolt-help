@@ -3,7 +3,7 @@ title: Passbolt
 timezone: UTC
 collections:
   01-getting-started:
-    title: Get to know passbolt
+    title: General
     description: Learn about who we are, our mission in life, our users and the FAQs we get.
     output: true
     layout: post
