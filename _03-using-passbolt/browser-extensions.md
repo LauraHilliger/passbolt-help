@@ -10,7 +10,7 @@ type: Document
 # Introduction
 We currently support Firefox. We plan to support Chrome and potentially other browsers in the future. Please consider making a financial contribution if you are interested in these extensions.
 
-## To install the Firefox add-on:
+## To install the Firefox add-on
 
 <video controls=""><source src="https://raw.githubusercontent.com/passbolt/passbolt_styleguide/master/src/video/an_install_plugin_firefox_864.mp4" type="video/mp4"></video>
 
