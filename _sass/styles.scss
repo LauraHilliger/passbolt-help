@@ -1,0 +1,13 @@
+.personas {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: stretch;
+	font-size: .9em;
+	margin: 0 auto 5% auto;
+}
+.user, .admin, .engineer{
+	flex: 0 0 33%;
+	text-align: center;
+}

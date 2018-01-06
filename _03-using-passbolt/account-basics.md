@@ -1,9 +1,9 @@
 ---
-title: "Account Basics: Registering, setting up and managing your account"
+title: "Account Basics"
 date: 2017-12-02 00:00:00 Z
 collection:
 - 03-using-passbolt
-description: Step by step, set up your account, change your profile pic, manage your account.
+description: Step by step, registering, setting up and managing your account.
 type: Document
 ---
 

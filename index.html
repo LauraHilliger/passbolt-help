@@ -2,14 +2,24 @@
 ---
 <section class="personas">
 	<section class="user">
+			<i class="fas fa-user fa-3x"></i>
+		<p>Learn the basics about registering, setting up and managing your passbolt account.</p>
+		<a href="#" class="button primary">Get started</a>
 	</section>
 	
 	<section class="admin">
+			<i class="fas fa-cogs fa-3x"></i>
+		<p>This section is for passbolt administrators. Learn how to set up groups and manage your users.</p>
+		<a href="#" class="button primary">Manage users</a>
 	</section>
 	
 	<section class="engineer">
+			<i class="fas fa-wrench fa-3x"></i>
+		<p>This way to tutorials for people who are looking to install passbolt for their business or community.</p>
+		<a href="#" class="button primary">Install passbolt</a>
 	</section>
 </section>
+
 <section class="categories">
 	{% assign test = site.collections | where_exp:'item', 'item.label != "posts"' %}
 	{% for collection in test %}

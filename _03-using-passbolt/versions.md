@@ -1,9 +1,9 @@
 ---
-title: Understanding and solving version incompatibilities
+title: Version incompatibilities
 date: 2017-10-26 00:00:00 Z
 collection:
 - getting-started
-description: Not all versions play nicely together.
+description: Not all versions play nicely together, this tutorial will help you understand and solve version incompatibilities.
 type: Document
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How to install browser extensions
+title: How to install extensions
 date: 2017-10-19 00:00:00 Z
 collection:
 - 03-using-passbolt
